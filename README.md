@@ -41,7 +41,9 @@ if __name__ == '__main__':
 
 
 
-# index.html 코드 작성  
+  
+## index.html 코드 작성  
+  
 ```<!DOCTYPE html>
 <html lang="en">
 <head>
