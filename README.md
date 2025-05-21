@@ -11,7 +11,7 @@
 Flask 프레임워크 설치  
 ```pip install flask```  
 
-app.py 코드 작성  
+# app.py 코드 작성  
 ```from flask import Flask, render_template, request, redirect
 import csv
 
@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 
 
-index.html 코드 작성  
+# index.html 코드 작성  
 ```<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +64,7 @@ index.html 코드 작성
 </html>```
 
 
-style.css 코드 작성  
+# style.css 코드 작성  
 ```body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f9;
