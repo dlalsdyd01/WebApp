@@ -36,13 +36,12 @@ def add_contact():
     return redirect('/')
 
 if __name__ == '__main__':
-    app.run(debug=True)```
+    app.run(debug=True)
+```
 
 
-
-
-  
-## index.html 코드 작성  
+# index.html 코드작성
+ 
   
 ```<!DOCTYPE html>
 <html lang="en">
@@ -63,8 +62,8 @@ if __name__ == '__main__':
         <button type="submit">Add Contact</button>
     </form>
 </body>
-</html>```
-
+</html>
+```
 
 # style.css 코드 작성  
 ```body {
@@ -170,8 +169,8 @@ button:hover {
   button {
       font-size: 14px;
   }
-} ```
-
+} 
+```
 
 
 # 프로그램 실행 방법  
