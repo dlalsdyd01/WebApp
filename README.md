@@ -9,11 +9,21 @@
 
 
 Flask 프레임워크 설치  
-pip install flask  
+```pip install flask```  
 
 app.py 코드 작성  
-  
-![image](https://github.com/user-attachments/assets/a7f1fe86-c5de-47a0-ab29-680b763ca267)  
+```<body>
+    <h1>Address Book</h1>
+    <form action="/add" method="post">
+        <label for="name" class="label-name">Name:</label>
+        <input type="text" id="name" name="pyname" required>
+        <br><br>
+        <label for="phone">Phone:</label>
+        <input type="text" id="phone" name="pyphone" required>
+        <br><br>
+        <button type="submit">Add Contact</button>
+    </form>
+</body>```
 
 
 
