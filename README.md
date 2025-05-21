@@ -5,7 +5,7 @@
 
 
 터미널에서 가상환경 만들기  
-conda create -n webApp python=3.9  
+'conda create -n webApp python=3.9'  
 
 Flask 프레임워크 설치  
 pip install flask  
